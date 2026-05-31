@@ -62,14 +62,14 @@
       <link>http://localhost:1313/my-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-website/contact/</guid>
-      <description>&lt;p&gt;Follow me, @johndoe.&lt;/p&gt;</description>
+      <description>&lt;p&gt;miracle&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/my-website/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-website/projects/</guid>
-      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;coming-soon-fellas-&#34;&gt;&#xD;&#xA;  Coming soon fellas &amp;hellip;&amp;hellip;.&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#coming-soon-fellas-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

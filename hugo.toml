@@ -1,4 +1,5 @@
 baseURL = "https://github.io/my-website"
+#baseURL = "http://my-website"
 title = "Miracle"
 theme = "hugo-coder"
 languageCode = "en"
@@ -28,7 +29,7 @@ description = "Miracle's website"
 keywords = "blog,developer,personal"
 info = ["Indie Game developer", "Graphics Artist",]
 #info = ["Full Stack DevOps", "Magician"]
-#avatarURL = "images/mimi2.jpg"
+avatarURL = "images/mimi4.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2026

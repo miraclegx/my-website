@@ -23,7 +23,9 @@ Gameplay wise you mainly interact with the terminal,
 * and connect and disconnect to the network and all those stuffs
 
 Then as part of the game there will be mini hacking sequences where you'll have to play a mini game, a mini game about capturing signal packets, while avoiding some other type of stuffs . Writing this now I think im a going to look upon the mini game with favor and remake it into its own actual game for mobile. Pretty Cool.
-![screenshot 1](/images/game.gif)
+
+![screenshot 1](/images/scr1.png)
+
 ## So How Did It Go?
 Well really not bad in any way for me, I learnt a new game engine, and had a lot of fun learning the engine and making a game at the same time. You know that rush when youre runnin outta time and you know you cant make it and also have other grey(boring) tasks to attend to like work and assignments(I'm an intern hence for most parts I did most of the game in the weekend). 
 Did I finish the game? Well maybe you might have guessed by now No. infact the game is a broken cute mess, frozen animations, weird UI placement, and bugs disguised as features(crazy).  Submitted it any ways
