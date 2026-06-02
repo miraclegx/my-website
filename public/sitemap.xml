@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-website/</loc>
+    <loc>http://localhost:1313/miracle/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/posts/game-dev-tv-jam/</loc>
+    <loc>http://localhost:1313/miracle/posts/game-dev-tv-jam/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/posts/</loc>
+    <loc>http://localhost:1313/miracle/posts/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/my-about/</loc>
+    <loc>http://localhost:1313/miracle/my-about/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/authors/</loc>
+    <loc>http://localhost:1313/miracle/authors/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/autores/autores-de-hugo/</loc>
+    <loc>http://localhost:1313/miracle/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/authors/hugo-authors/</loc>
+    <loc>http://localhost:1313/miracle/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/categories/</loc>
+    <loc>http://localhost:1313/miracle/categories/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/categoria/temas/</loc>
+    <loc>http://localhost:1313/miracle/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/categoria/sintaxe/</loc>
+    <loc>http://localhost:1313/miracle/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tags/shortcodes/_index.pt-br/</loc>
+    <loc>http://localhost:1313/miracle/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/tags/</loc>
+    <loc>http://localhost:1313/miracle/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/about/</loc>
+    <loc>http://localhost:1313/miracle/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-website/contact/</loc>
+    <loc>http://localhost:1313/miracle/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-website/projects/</loc>
+    <loc>http://localhost:1313/miracle/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-website/series/</loc>
+    <loc>http://localhost:1313/miracle/series/</loc>
   </url>
 </urlset>
