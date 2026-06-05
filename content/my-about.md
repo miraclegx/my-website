@@ -6,4 +6,5 @@ aliases = ["about-me", "about-miracle", "contact"]
 author = "Miracle"
 +++
 
-# ooops you were'nt supposed to see this :)
+Hello I am Miracle, a solo game dev and artist(e) from nigeria. 
+

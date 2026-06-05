@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/miracle/my-about/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/miracle/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miracle/posts/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/miracle/my-about/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/miracle/authors/</loc>
@@ -38,12 +38,9 @@
     <loc>http://localhost:1313/miracle/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/miracle/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/miracle/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/miracle/projects/</loc>
+    <loc>http://localhost:1313/miracle/gallery/</loc>
   </url><url>
     <loc>http://localhost:1313/miracle/series/</loc>
   </url>

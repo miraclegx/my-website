@@ -151,7 +151,13 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/miraclegx"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 1
+url = "mailto:miracleojonugwamaji@gmail.com"
 
 [[params.social]]
 name = "Twitter"
@@ -163,7 +169,7 @@ url = "https://twitter.com/johndoe/"
 name = "Instagram"
 icon = "fa-brands fa-instagram fa-2x"
 weight = 1
-url = ""
+url = "https://www.instagram.com/miracle__iyanu/"
 
 [languages.en]
 languageName = ":uk:"
@@ -177,7 +183,7 @@ url = "posts/"
 [[languages.en.menu.main]]
 name = "Gallery"
 weight = 3
-url = "projects/"
+url = "gallery/"
 
 [[languages.en.menu.main]]
 name = "About"

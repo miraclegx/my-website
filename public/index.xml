@@ -9,18 +9,18 @@
     <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/miracle/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/miracle/my-about/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miracle/my-about/</guid>
+      <description>&lt;p&gt;Hello I am Miracle, a solo game dev and artist(e) from nigeria.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Post Jam Reflections :)</title>
       <link>http://localhost:1313/miracle/posts/game-dev-tv-jam/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/miracle/posts/game-dev-tv-jam/</guid>
       <description>&lt;h2 id=&#34;about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;  About the Game Dev.tv jam&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The game dev.tv 2026 game jam just ended some days ago, and you know all the rush is gone, I am cool again, (I&amp;rsquo;ve always been). Its now me and my thoughts again and deadlines breathing down my neck.&#xA;See lets call it post jam energy, I just got relief after some days of crunch, no more bugs to worry about, features to implement, art to make or tweak(I make all my games alone, solo). So its me now me and my thoughts again :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Some Stuffs About Me</title>
-      <link>http://localhost:1313/miracle/my-about/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/my-about/</guid>
-      <description>&lt;p&gt;Hi there, as you already know I am Miracle, an indie game developer, and artist(e).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autores de Hugo</title>
@@ -51,25 +51,18 @@
       <description></description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/miracle/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contact</title>
       <link>http://localhost:1313/miracle/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/miracle/contact/</guid>
-      <description>&lt;p&gt;miracle&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;  ooops you were&amp;rsquo;nt supposed to see this :)&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/miracle/projects/</link>
+      <title>Gallery Of My Featured Artworks</title>
+      <link>http://localhost:1313/miracle/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/projects/</guid>
-      <description>&lt;h2 id=&#34;coming-soon-fellas-&#34;&gt;&#xD;&#xA;  Coming soon fellas &amp;hellip;&amp;hellip;.&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#coming-soon-fellas-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
+      <guid>http://localhost:1313/miracle/gallery/</guid>
+      <description>&lt;h1 id=&#34;coming-soon-fellas&#34;&gt;&#xD;&#xA;  Coming soon fellas&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#coming-soon-fellas&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
