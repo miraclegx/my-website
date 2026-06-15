@@ -5,4 +5,11 @@ title = "Gallery Of My Featured Artworks"
 
 # Fall Of Man
 
-![screenshot 1](../images/scr1.png)
+![screenshot 1](../images/fallofmanboard.png)
+Absolutely one of my personal favourites, a piece I hold dearly
+# Self harm
+![self harm](../images/selfharmartboard.png)
+# Awe of maximus
+![screenshot 1](../images/ddad.png)
+# Cloud no 9
+![screenshot 1](../images/cloudno9.jpg)
