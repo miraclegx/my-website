@@ -190,10 +190,10 @@ name = "About"
 weight = 3
 url = "my-about/"
 
-[[languages.en.menu.main]]
-name = "Reach Out"
-weight = 5
-url = "contact/"
+#[[languages.en.menu.main]]
+# #name = "Reach Out"
+# weight = 5
+# url = "contact/"
 
 [caches]
   [caches.images]

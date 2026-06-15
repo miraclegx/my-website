@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/miracle/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Jam Reflections :)</title>
-      <link>http://localhost:1313/miracle/posts/game-dev-tv-jam/</link>
+      <link>http://localhost:1313/miracle/posts/gamedevtv/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/posts/game-dev-tv-jam/</guid>
+      <guid>http://localhost:1313/miracle/posts/gamedevtv/</guid>
       <description>&lt;h2 id=&#34;about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;  About the Game Dev.tv jam&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The game dev.tv 2026 game jam just ended some days ago, and you know all the rush is gone, I am cool again, (I&amp;rsquo;ve always been). Its now me and my thoughts again and deadlines breathing down my neck.&#xA;See lets call it post jam energy, I just got relief after some days of crunch, no more bugs to worry about, features to implement, art to make or tweak(I make all my games alone, solo). So its me now me and my thoughts again :)&lt;/p&gt;</description>
     </item>
   </channel>
