@@ -28,9 +28,7 @@ author = "Miracle"
 description = "Miracle's website"
 keywords = "blog,developer,personal"
 info = ["Indie Game developer", "Graphics Artist",]
-#info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/miracleone.png"
-#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2026
 # Git Commit in Footer, uncomment the line below to enable it

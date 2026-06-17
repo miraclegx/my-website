@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Miracle</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/miracle/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cube mappy, Another reinvention of the wheel</title>
+      <link>http://localhost:1313/miracle/posts/cubemappy/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miracle/posts/cubemappy/</guid>
+      <description>&lt;p&gt;As you may know, I have a knack for reinventing things that already exist. Most of the time, though, it&amp;rsquo;s for learning purposes.&lt;/p&gt;&#xA;&lt;p&gt;One example is Cube Mappy, a project I started to sharpen my Python skills, and improve my Defold experience.&lt;/p&gt;&#xA;&lt;p&gt;At its core, Cube Mappy is a simple tool that converts 360° panoramic images into six separate images, each representing one face of a cubemap, exactly what Defold likes.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Post Jam Reflections :)</title>
       <link>http://localhost:1313/miracle/posts/gamedevtv/</link>
