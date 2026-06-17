@@ -26,6 +26,9 @@ Second, I have a general dislike(hate) for web-based tools. Some of my reasons a
 
 Finally, automation. I enjoy writing my own tools. I like knowing how things work, and I like having complete control over my workflow. It's one of the reasons I enjoy using Defold, though that's a discussion for another day.
 
+![screenshot 1](img2.png)
+*Workin sky box*
+
 ## Biggest motivation
 
 When working with engines like Godot and you want to add a skybox, you can usually provide an HDR panoramic image directly. The engine handles all the necessary transformations behind the scenes.
