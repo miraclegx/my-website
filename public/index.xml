@@ -1,89 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Miracle</title>
-    <link>http://localhost:1313/miracle/</link>
-    <description>Recent content on Miracle</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/miracle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cube mappy, Another reinvention of the wheel</title>
-      <link>http://localhost:1313/miracle/posts/cubemappy/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/posts/cubemappy/</guid>
-      <description>&lt;p&gt;As you may know, I have a knack for reinventing things that already exist. Most of the time, though, it&amp;rsquo;s for learning purposes.&lt;/p&gt;&#xA;&lt;p&gt;One example is Cube Mappy, a project I started to sharpen my Python skills, and improve my Defold experience.&lt;/p&gt;&#xA;&lt;p&gt;At its core, Cube Mappy is a simple tool that converts 360° panoramic images into six separate images, each representing one face of a cubemap, exactly what Defold likes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/miracle/my-about/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/my-about/</guid>
-      <description>&lt;p&gt;Hello I am Miracle, a solo game dev and artist(e) from nigeria.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post Jam Reflections :)</title>
-      <link>http://localhost:1313/miracle/posts/gamedevtv/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/posts/gamedevtv/</guid>
-      <description>&lt;h2 id=&#34;about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;  About the Game Dev.tv jam&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The game dev.tv 2026 game jam just ended some days ago, and you know all the rush is gone, I am cool again, (I&amp;rsquo;ve always been). Its now me and my thoughts again and deadlines breathing down my neck.&#xA;See lets call it post jam energy, I just got relief after some days of crunch, no more bugs to worry about, features to implement, art to make or tweak(I make all my games alone, solo). So its me now me and my thoughts again :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autores de Hugo</title>
-      <link>http://localhost:1313/miracle/autores/autores-de-hugo/</link>
-      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>http://localhost:1313/miracle/autores/autores-de-hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>temas</title>
-      <link>http://localhost:1313/miracle/categoria/temas/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>http://localhost:1313/miracle/categoria/temas/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>sintaxe</title>
-      <link>http://localhost:1313/miracle/categoria/sintaxe/</link>
-      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>http://localhost:1313/miracle/categoria/sintaxe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Códigos curtos</title>
-      <link>http://localhost:1313/miracle/tags/shortcodes/_index.pt-br/</link>
-      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>http://localhost:1313/miracle/tags/shortcodes/_index.pt-br/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/miracle/art-explained/fall-of-man/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/art-explained/fall-of-man/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/miracle/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/contact/</guid>
-      <description>&lt;h1 id=&#34;ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;  ooops you were&amp;rsquo;nt supposed to see this :)&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Gallery Of My Featured Artworks</title>
-      <link>http://localhost:1313/miracle/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/gallery/</guid>
-      <description>&lt;h1 id=&#34;self-harm&#34;&gt;&#xD;&#xA;  Self harm&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#self-harm&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://buymeacoffee.com/miracle_iyanu/gallery&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;../images/selfharmartboard.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;fall-of-man&#34;&gt;&#xD;&#xA;  Fall Of Man&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#fall-of-man&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/miracle/art-explained/self-harm/&#34; &gt;&lt;img src=&#34;../images/fallofmanboard.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/a&gt;&#xA;Absolutely one of my personal favourites, a piece I hold dearly&lt;/p&gt;&#xA;&lt;h1 id=&#34;awe-of-maximus&#34;&gt;&#xD;&#xA;  Awe of maximus&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#awe-of-maximus&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;../images/ddad.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;cloud-no-9&#34;&gt;&#xD;&#xA;  Cloud no 9&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cloud-no-9&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;../images/cloudno9.jpg&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Self Harm</title>
-      <link>http://localhost:1313/miracle/art-explained/self-harm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miracle/art-explained/self-harm/</guid>
-      <description>&lt;p&gt;Self harm, one of my earlier works dat explores themes of &lt;em&gt;self harm or damage&lt;/em&gt;, &lt;em&gt;beauty&lt;/em&gt;, and &lt;em&gt;loneliness&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit &lt;a href=&#34;https://buymeacoffee.com/miracle_iyanu/gallery&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get it&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Miracle</title>
+		<link>http://localhost:1313/my-website/</link>
+		<description>Recent content on Miracle</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/my-website/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Cube mappy, Another reinvention of the wheel</title>
+				<link>http://localhost:1313/my-website/posts/cubemappy/</link>
+				<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/posts/cubemappy/</guid>
+				<description>&lt;p&gt;As you may know, I have a knack for reinventing things that already exist. Most of the time, though, it&amp;rsquo;s for learning purposes.&lt;/p&gt;&#xA;&lt;p&gt;One example is Cube Mappy, a project I started to sharpen my Python skills, and improve my Defold experience.&lt;/p&gt;&#xA;&lt;p&gt;At its core, Cube Mappy is a simple tool that converts 360° panoramic images into six separate images, each representing one face of a cubemap, exactly what Defold likes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/my-website/my-about/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/my-about/</guid>
+				<description>&lt;p&gt;Hello I am Miracle, a solo game dev and artist(e) from nigeria.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Post Jam Reflections :)</title>
+				<link>http://localhost:1313/my-website/posts/gamedevtv/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/posts/gamedevtv/</guid>
+				<description>&lt;h2 id=&#34;about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;  About the Game Dev.tv jam&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-the-game-devtv-jam&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The game dev.tv 2026 game jam just ended some days ago, and you know all the rush is gone, I am cool again, (I&amp;rsquo;ve always been). Its now me and my thoughts again and deadlines breathing down my neck.&#xA;See lets call it post jam energy, I just got relief after some days of crunch, no more bugs to worry about, features to implement, art to make or tweak(I make all my games alone, solo). So its me now me and my thoughts again :)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Autores de Hugo</title>
+				<link>http://localhost:1313/my-website/autores/autores-de-hugo/</link>
+				<pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+				<guid>http://localhost:1313/my-website/autores/autores-de-hugo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>temas</title>
+				<link>http://localhost:1313/my-website/categoria/temas/</link>
+				<pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+				<guid>http://localhost:1313/my-website/categoria/temas/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>sintaxe</title>
+				<link>http://localhost:1313/my-website/categoria/sintaxe/</link>
+				<pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+				<guid>http://localhost:1313/my-website/categoria/sintaxe/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Códigos curtos</title>
+				<link>http://localhost:1313/my-website/tags/shortcodes/_index.pt-br/</link>
+				<pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+				<guid>http://localhost:1313/my-website/tags/shortcodes/_index.pt-br/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/my-website/art-explained/fall-of-man/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/art-explained/fall-of-man/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>http://localhost:1313/my-website/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/contact/</guid>
+				<description>&lt;h1 id=&#34;ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;  ooops you were&amp;rsquo;nt supposed to see this :)&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ooops-you-werent-supposed-to-see-this-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title>Gallery Of My Featured Artworks</title>
+				<link>http://localhost:1313/my-website/gallery/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/gallery/</guid>
+				<description>&lt;h1 id=&#34;self-harm&#34;&gt;&#xD;&#xA;  Self harm&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#self-harm&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://buymeacoffee.com/miracle_iyanu/gallery&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;../images/selfharmartboard.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;fall-of-man&#34;&gt;&#xD;&#xA;  Fall Of Man&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#fall-of-man&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/my-website/art-explained/self-harm/&#34; &gt;&lt;img src=&#34;../images/fallofmanboard.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/a&gt;&#xA;Absolutely one of my personal favourites, a piece I hold dearly&lt;/p&gt;&#xA;&lt;h1 id=&#34;awe-of-maximus&#34;&gt;&#xD;&#xA;  Awe of maximus&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#awe-of-maximus&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;../images/ddad.png&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;cloud-no-9&#34;&gt;&#xD;&#xA;  Cloud no 9&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#cloud-no-9&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;../images/cloudno9.jpg&#34; alt=&#34;screenshot 1&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Self Harm</title>
+				<link>http://localhost:1313/my-website/art-explained/self-harm/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/art-explained/self-harm/</guid>
+				<description>&lt;p&gt;Self harm, one of my earlier works dat explores themes of &lt;em&gt;self harm or damage&lt;/em&gt;, &lt;em&gt;beauty&lt;/em&gt;, and &lt;em&gt;loneliness&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Visit &lt;a href=&#34;https://buymeacoffee.com/miracle_iyanu/gallery&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get it&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

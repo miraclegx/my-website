@@ -1,4 +1,4 @@
-baseURL = "https://github.io/miracle"
+baseURL = "https://miraclegx.github.io/my-website/"
 #baseURL = "http://my-website"
 title = "Miracle"
 theme = "hugo-coder"
@@ -174,7 +174,7 @@ languageName = ":uk:"
 
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "My Cool Blog"
 weight = 1
 url = "posts/"
 
