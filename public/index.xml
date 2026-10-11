@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/my-website/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026 a year of hard knocks and 3 unfinished</title>
+				<link>http://localhost:1313/my-website/posts/2026-hardknock/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/posts/2026-hardknock/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-website/posts/2026-hardknock/banner.png&#34; alt=&#34;Projects Banner&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;2026 definitely gotta be the most chaotic year already, so I wanna use dis post to just show off 🥲 my failed projects.&#xA;And it also helps with generally just posting sometin cool anyways&lt;/p&gt;&#xA;&lt;p&gt;So like every normal or unnormal person I had some pretty neat goals for dis year with regards to my game dev life. And so so many &amp;ldquo;cool&amp;rdquo; and &amp;ldquo;fun ideas&amp;rdquo; swimming around in my head.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Complete Beginner&#39;s Guide: How to Install Git and Push Code to GitHub</title>
 				<link>http://localhost:1313/my-website/posts/github-guide/</link>

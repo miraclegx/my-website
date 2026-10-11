@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-website/posts/github-guide/</loc>
-    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/my-website/posts/2026-hardknock/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/defold/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-website/categories/development/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/devlog/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/game-design/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/game-dev/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/love2d/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/tags/postmortem/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/posts/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-website/posts/github-guide/</loc>
     <lastmod>2026-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-website/tags/git/</loc>
     <lastmod>2026-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-website/tags/github/</loc>
-    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-website/</loc>
-    <lastmod>2026-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-website/posts/</loc>
     <lastmod>2026-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-website/tags/tutorial/</loc>

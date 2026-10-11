@@ -10,9 +10,51 @@
 		
 		
 		
-			<lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/my-website/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Defold</title>
+				<link>http://localhost:1313/my-website/tags/defold/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/defold/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Devlog</title>
+				<link>http://localhost:1313/my-website/tags/devlog/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/devlog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game-Design</title>
+				<link>http://localhost:1313/my-website/tags/game-design/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/game-design/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game-Dev</title>
+				<link>http://localhost:1313/my-website/tags/game-dev/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/game-dev/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Love2d</title>
+				<link>http://localhost:1313/my-website/tags/love2d/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/love2d/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Postmortem</title>
+				<link>http://localhost:1313/my-website/tags/postmortem/</link>
+				<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/my-website/tags/postmortem/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Git</title>
 				<link>http://localhost:1313/my-website/tags/git/</link>
